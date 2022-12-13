@@ -1,0 +1,8 @@
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.SuggestedBindingRedirects.cache
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\amine\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
